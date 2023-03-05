@@ -1,21 +1,14 @@
-rear-three-quarter-view-mounted-close.png
-
-rear-three-quarter-view-mounted.png
-
-rear-view-mounted.png
-
-side-view-mounted.png
-
-
 # Ass Paddle
-
-The Ass Paddle is the go-to solution for securing a VTX to the chassis of a sub-250-gram drone, particularly the Fun Hog.
 
 <img src="images/side-view-mounted.png" alt="Fun Hog Ass Paddle"/>
 
+The Ass Paddle is the go-to solution for securing a VTX to the chassis of a sub-250-gram drone, particularly the Fun Hog.
+
+<img src="images/ass-paddle-logo.png" alt="Fun Hog Ass Paddle"/>
+
 Design features include:
 
-* Compatible with miro and larger legacy VTX (e.g., Mach series)
+* Compatible with micro and larger legacy VTX (e.g., Mach series)
 * Vented to save weight and increase airflow
 * Natural breakaway in serious crashes (e.g., yard sale)
 * Antenna **only** fastening
