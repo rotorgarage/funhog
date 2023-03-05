@@ -1,6 +1,17 @@
+rear-three-quarter-view-mounted-close.png
+
+rear-three-quarter-view-mounted.png
+
+rear-view-mounted.png
+
+side-view-mounted.png
+
+
 # Ass Paddle
 
 The Ass Paddle is the go-to solution for securing a VTX to the chassis of a sub-250-gram drone, particularly the Fun Hog.
+
+<img src="images/side-view-mounted.png" alt="Fun Hog Ass Paddle"/>
 
 Design features include:
 
@@ -19,11 +30,12 @@ Design features include:
 
 Direct, connect your VTX to the Ass Paddle. Any combination of double sticky, shrink, and cable tie will work.
 
-[picture of my preferred install with shrink]
+<img src="images/rear-view-mounted.png" alt="Fun Hog Ass Paddle"/>
 
 Optionally and **recommended**, secure the antenna.  By securing the antenna to the Ass Paddle, any fatal impact of the antenna will not break the PCB or VTX.  This fixture takes all of the energy, thus saving the VTX at the expense of the antenna using the Ass Paddle.
 
-[picture of secured antenna]
+
+<img src="images/rear-three-quarter-view-mounted-close.png" alt="Fun Hog Ass Paddle"/>
 
 Finally, attach the Ass Paddle and VTX combo to the back (ass) of the drone.  Many variations exist, but a combination of cable-tie and double sticky works very well.
 
@@ -31,4 +43,9 @@ A standard connector, such as a Micro JST, combined with a single well-mounted c
 
 Improvise and improve as necessary; the Ass Paddle is purposefully simple in design.
 
-[picture of single cable tie mount and the release connection]
+
+<img src="irear-three-quarter-view-mounted-close.png" alt="Fun Hog Ass Paddle"/>
+
+
+
+
