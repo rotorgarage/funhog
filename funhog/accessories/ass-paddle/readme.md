@@ -37,7 +37,7 @@ A standard connector, such as a Micro JST, combined with a single well-mounted c
 Improvise and improve as necessary; the Ass Paddle is purposefully simple in design.
 
 
-<img src="irear-three-quarter-view-mounted-close.png" alt="Fun Hog Ass Paddle"/>
+<img src="images/rear-three-quarter-view-mounted-close.png" alt="Fun Hog Ass Paddle"/>
 
 
 
