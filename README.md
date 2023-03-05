@@ -1,2 +1,5 @@
-# funhog
-All Fun Hog cad designs (open source) https://funhog.me
+# Fun Hog dot Me
+
+
+
+see lcense file
