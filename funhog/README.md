@@ -2,13 +2,27 @@
 
 [IN PROGRESS]
 
-The Fun Hog frame is a modular sub-250-gram frame with the broadest range of support.  Being built by pilot engineers, the Fun Hog is the number one choice for unrestricted FPV flight, whether freestyle, race, or casual.
+
+
+--image logo
+
+
+The Fun Hog frame is a modular sub-250-gram frame with the broadest range of hardware support.  Being built by pilot engineers, the Fun Hog is the number one choice for unrestricted FPV flight, whether freestyle, race, or casual.
+
+
+---image of good build, 3/4 view
+
 
 ## Field repairable using common parts
 
 The design of the Fun Hog is around existing 250-gram-plus drones. In particular, **M3 hardware** like screws and stand-offs.  
 
 The M2 hardware is common, one size, and limited to the stack (and optional, depending on configuration).
+
+
+----image, side profile with M2 and M3 arrows pointing out what is what
+
+
 
 The rest of the build relies on FPV standards: Sticky tape, cable ties, and some e-tape—all common materials.
 
@@ -20,64 +34,91 @@ The Fun Hog design is sub-250-gram. Nowhere does that requirement state what pro
 
 The body (plates and stack) uses a standard hole pattern for all arms.  Control the ratio (length: width) and width to facilitate the best prop and motor combination for your desired flight.
 
+
+---images, picture of 2/2.5, 3"", 6"
+
+
 See the favorite builds section below.
 
 ## No 3DP Parts!
 
 The Fun Hog frame has **no 3DP dependencies***.  We are confident there are addons for flight and assembly, but we wanted simplicity. Dependencies on 3DP parts represented considerable overhead and risk and were unnecessary.
 
+
+---image circle bar of 3DP
+
+
 # Assembly
 
 The assembly instructions are brief. Moderate or better FPV build skills are assumed.
 
-Parts:
+Parts, standard build:
 
-* Large cable tie
-* Small cable tie
-* M2
-* M3 stand-off
-* M3 hardware
+* Large cable tie 4 5 (8" x .1875)
+* Small cable tie x 10 (4" x .125)
+* M2x6 stand-off x 12
+* M2x7 Socket heat screw x 8-16pc (for motor mounting, varied based on arm thickness and motor base style)
+* M2 brass knurled nut x 4 (or M2x2-6 nylon stand off)
+* M3 stand-off, 5mm OD, straight, not dogbone (20mm, 25mm, 30mm most common)
+* M3 hardware (4 x M3x10 for base plate and arm, 3x M3x6 for top plate, may vary based on carbon fiber thickness)
 * Sticky tape
+
+And of course electronics, props, and camera and VTX mounting solution.
 
 ### Decide on your stack height. 
 
 The stack height will vary from 20mm to 30mm depending on the configuration chosen.  Typically a 3 PCB stack on M2x6 nylon stand-offs fit comfortably in 30mm.
 
-Knowing the stack height, find some M3 stand-offs and M3 screws.
+---image, side view with standoff/stack and height highlighted
+
+Knowing the stack height, find some M3 stand-offs and M3 screws.  Opt for generic 5mm OD stand-offs, not dogbone or hex.
 
 ### Assemble Bottom Up
 
 Using an M2x6 metal screw, push into an M2x6 nylon stand-off four times for the stack.
 
+---image at this state
+
 Drop a PCB onto the four nylon stand-offs, and fasten with more M2x6 nylon stand-offs.  
 
 > Note: Be that the nylon stand-off clears all of the components. Occasionally the washer space on the PCB is small and requires trimming the stand-off for proper fitment.
+
+---image at this state
 
 Repeat as needed.
 
 Complete the assembly with an M2 nylon nut, an M2 stand-off, or an M2 knurled brass nut.  Again, be mindful of where the PCB receives the downward thread movement. Sometimes knurled nuts are required to avoid components on a PCB.
 
+---image at this state, highlight on brass nuts
+
 ### Add the Arms and Motors
 
-Confirm the stack order with the stack assembled ("dry hump") and leave it unassembled while the arms and motors are mounted.
+Confirm the stack order with the stack assembled ("dry hump") and leave it unassembled in order to mount the arms and motors.
 
-Both frame (plate) and ar have three holes for mounting.  We have found that only 2 of the three are necessary for a safe flight regardless of the drivetrain.  The holes used are the "outside" holes in the triangle pattern.
+Both frame (plate) and arms have three holes for mounting.  We have found that only 2 of the three are necessary for a safe flight regardless of the drivetrain.  The holes used are the "outside" holes in the triangle pattern.
 
-[image reference]
+---image of the 3 holes on the plate/arm highlighting the 2 we use
 
 The default arm mounting style is to the bottom of the plate.  Many variations exist; start here.  Use M3 metal hardware to hold the arm to the plate (stand-off and screw). Locktite this and all metal-to-metal threaded connections.
+
+---image at this state
 
 Pay attention to the motor mounting to be sure the wires travel well down the arm.
 
 Repeat and mount all four motors on both arms. The arms connect via the M3 hardware described above.
 
+---image at this state
+
+
 ### Finish the stack
 
 Before soldering, trim or handle excess motor wire. Either cut it or loop the wire and fasten it to the arm.  Now use a thin strip of e-tape to secure the motor wire to the arm. Repeat for each motor.
 
-Disassemble and solder all of the necessary connections in the stack. 
+---image at this state
 
-> Suggestion: Build with an AIO ESC on the bottom, then flight control, then an optional HD camera (PCB) for a classic 3 PCB stack.
+Disassemble as necessary and solder all of the necessary connections in the stack. 
+
+> Suggestion: Build with an AIO ESC on the bottom, then flight control, then an optional HD camera (PCB) for a classic 3 PCB stack.  The resultant build has good airflow on the PCBs that need it most!
 
 Assemble all components such as data RX, VTX, OSD, camera, and HD, but leave the antennas loose for now.
 
@@ -85,23 +126,36 @@ Smoke test whenever you feel safe.
 
 ### Complete the build
 
-There are many directions to take. How to complete the build depends on your skill, parts, and stack choice.  The following approach is a typical finished product like the ones we have flown for years testing.
+There are many directions to take. How to complete the build depends on your skill, parts, and stack choice.  The following approach is a typical finished product like the ones we have flown for years testing and advancing this frame.
 
 RX (data): 
 
 * Mount the RX under the top plate or behind the stack. 
+
+---image at this state
+
 * Run the antenna wire up and over the top plate. 
 * Use e-tape to keep them in place and protect the wire.  
+
+---image at this state
+
 * RX Antenna:
 * Finish the antenna using a large cable tie, heated slightly to bend, forming a classic "antenna" shape.
 * Use e-tape to fasten the antenna element to the cable tie.
+
+---image at this state
+
 * Handle excess antenna wire as needed.
 * Fasten the cable tie and antenna combination to the top plate's front using double-sticky and small cable ties.
+
+---image at this state
 
 OSD (if used): 
 
 * Secure as needed with double sticky behind the stack, in front of the rear stand-offs.
 * Use a small cable tie to fasten. Include the RX if in the area, and loop around the back stand-offs tight enough to hold the position.  Once the top plate is attached, pull tight and trim the cable tie.
+
+---image at this state
 
 ### Camera and Top Plate:
 
@@ -113,11 +167,15 @@ OSD (if used):
 1. Account for all wires. Then confirm the camera remains tightly affixed between the plates and positioned correctly.
 1. Fasten any loose wires to the top plate using e-tape, leaving room for velcro (if top mounting the battery)
 
+---image at this state
+
 ### VTX:
 
 Using Ass Paddle technologies, affix the VTX/Ass Paddle combination to the rear of the drone, behind the back stand-offs.
 
 The recommended approach is to use a quick-release connection (micro JST, for example), minimal double-sticky, and a single cable tie around the VTX conglomerate and the back stand-offs.
+
+---image at this state
 
 ### Battery
 
@@ -130,6 +188,8 @@ Thread the battery strap.  It is often necessary to use a small cable tie to hol
 **Underslung**
 
 Thread the battery strap, similar to the top mount method. Add velcro for the battery.
+
+---image at this state
 
 ## Finishing Touches
 
