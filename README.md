@@ -2,4 +2,4 @@
 
 
 
-see lcense file
+See license file.
